@@ -10,6 +10,13 @@ This repository contains Java Swing applications for managing finals schedules a
 
 ## How to Run
 
+### Quickest Way (Pre-compiled JAR)
+Simply download and **double-click** `TommieFinalsApp.jar` or run:
+```
+java -jar TommieFinalsApp.jar
+```
+
+### From Source
 1. Ensure you have Java JDK installed (version 8 or higher).
 2. Clone the repository.
 3. Navigate to the `src/` directory.

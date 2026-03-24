@@ -1,5 +1,5 @@
 bin/
-*.class
-*.jar
+src/*.class
+src/MANIFEST.MF
 .DS_Store
 Thumbs.db
