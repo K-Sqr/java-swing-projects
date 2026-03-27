@@ -4,7 +4,8 @@ This repository contains Java Swing applications for managing finals schedules a
 
 ## Applications
 
-1. **Tommie Finals App** (`TommieFinalsApp.java`): Main launcher with welcome screen and toolkit selection.
+1. **Tommie Finals App** (`TommieFinalsApp.java`): Main launcher with welcome screen and toolkit selection. In hindsite this was not really a useful tool, I was only helpful for one semester for one week for one school. and will never be needed again
+   
 2. **Finals Interpreter** (`FinalsInterpreterApp.java`): Find finals exam dates and times based on class schedules.
 3. **Secret Santa** (`SecretSantaApp.java`): Manage friends and assign Secret Santa matches.
 
